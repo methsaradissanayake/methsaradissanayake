@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 <img align="center" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ" alt="methsaradissanayake" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=methsaradissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="methsaradissanayake" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=methsaradissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="methsaradissanayake" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
